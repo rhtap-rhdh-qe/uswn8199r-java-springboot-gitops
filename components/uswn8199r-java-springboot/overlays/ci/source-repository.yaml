@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: uswn8199r-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/uswn8199r-java-springboot
